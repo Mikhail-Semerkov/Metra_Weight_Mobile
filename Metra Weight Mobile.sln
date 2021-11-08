@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metra Weight Mobile", "TcpPoc.Droid\Metra Weight Mobile.csproj", "{3048DADC-20DB-4703-B527-8FA3B2E39A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|Any CPU = AppStore|Any CPU
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Ad-Hoc|Any CPU.ActiveCfg = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Ad-Hoc|Any CPU.Build.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Ad-Hoc|Any CPU.Deploy.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Ad-Hoc|iPhone.Deploy.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Ad-Hoc|iPhoneSimulator.Build.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Ad-Hoc|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.AppStore|Any CPU.ActiveCfg = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.AppStore|Any CPU.Build.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.AppStore|Any CPU.Deploy.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.AppStore|iPhone.Deploy.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.AppStore|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.AppStore|iPhoneSimulator.Build.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.AppStore|iPhoneSimulator.Deploy.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Debug|iPhone.Deploy.0 = Debug|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Release|iPhone.Build.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Release|iPhone.Deploy.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{3048DADC-20DB-4703-B527-8FA3B2E39A04}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67806F63-8817-4843-9917-B2F096140C67}
+	EndGlobalSection
+EndGlobal
